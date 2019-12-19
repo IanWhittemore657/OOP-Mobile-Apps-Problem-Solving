@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Datastruct" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAoQACEgEBCAAAAAEEAAIAAAAEAAAAAAABJCAAAQAA=</HashCode>
+      <FileName>Datastruct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myArray" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgEBCAAAAAAFAAAAAAAAAAgAAAIAAAAgAAAA=</HashCode>
+      <FileName>myArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACAEAAIgAgAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queue" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEACAAAACAFAAAAAAAEAAAAAAAAACAAAQAA=</HashCode>
+      <FileName>queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="singleLinkList" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAoQAAAAAAAAAAAAEEBAAAAAAEAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>singleLinkList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doubleLinkedList" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoQAAAAAAAAAAAAEEAAAQAAAEAAAAAAABAAAAIAAA=</HashCode>
+      <FileName>doubleLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ListNode">
+    <Position X="9.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAA=</HashCode>
+      <FileName>singleLinkList.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

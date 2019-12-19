@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Datastruct" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAACEgEBCAAAAAAEAAIAAAAAAAAAAAAAJCAAAQAA=</HashCode>
+      <FileName>Datastruct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myArray">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgEBCAAAAAAFAAAAAAAAAAgAAAIAAAAgAAAA=</HashCode>
+      <FileName>myArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="myArray" FixedFromPoint="true">
+      <Path>
+        <Point X="10.75" Y="0.5" />
+        <Point X="11.125" Y="0.5" />
+        <Point X="11.125" Y="2.169" />
+        <Point X="11.5" Y="2.169" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACAEAAIgAgAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queue">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEACAAAACABAAAAAAAEAAAAAAAAACAAAQAA=</HashCode>
+      <FileName>queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

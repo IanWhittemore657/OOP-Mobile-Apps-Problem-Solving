@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Datastruct" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAoQACEgEBCAAAAAEEAAIAAAAEAAAAAAABJCAAAQAA=</HashCode>
+      <FileName>Datastruct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doubleLinkedList" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="singleLinkList" FixedToPoint="true">
+      <Path>
+        <Point X="4.75" Y="3.5" />
+        <Point X="4.75" Y="4.125" />
+        <Point X="4" Y="4.125" />
+        <Point X="4" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAoQAAAAAAAAAAAAEEAAAQAAAEAAAAAAABAAAAIAAA=</HashCode>
+      <FileName>doubleLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myArray" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgEBCAAAAAAFAAAAAAAAAAgAAAIAAAAgAAAA=</HashCode>
+      <FileName>myArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queue" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEACAAAACAFAAAAAAAEAAAAAAAAACAAAQAA=</HashCode>
+      <FileName>queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="singleLinkList" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAoQAAAAAAAAAAAAEEBAAAAAAEAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>singleLinkList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack" Collapsed="true">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACAEAAIgAgAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAMAAAA=</HashCode>
+      <FileName>Node.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

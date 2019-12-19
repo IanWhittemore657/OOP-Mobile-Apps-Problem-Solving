@@ -1,0 +1,151 @@
+﻿Build started 23/08/2018 15:38:25.
+     1>Project "H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\AssignmentOOPWeek5\AssignmentOOPWeek5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\AssignmentOOPWeek5.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt BinaryTree.cpp Datastruct.cpp Hashing.cpp Stack.cpp doubleLinkedList.cpp myArray.cpp queue.cpp singleLinkList.cpp
+         BinaryTree.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\binarytree.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+         Compiling...
+         Datastruct.cpp
+         Generating Code...
+         Compiling...
+         singleLinkList.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\singlelinklist.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\singlelinklist.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         queue.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\queue.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         myArray.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         doubleLinkedList.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\doublelinkedlist.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\singlelinklist.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\singlelinklist.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Stack.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\stack.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\myarray.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Hashing.cpp
+     1>h:\documents\visual studio 2012\projects\assignmentoopweek5\assignmentoopweek5\hashing.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\Debug\AssignmentOOPWeek5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\Debug\AssignmentOOPWeek5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\Debug\AssignmentOOPWeek5.lib" /MACHINE:X86 Debug\AssignmentOOPWeek5.obj
+         Debug\BinaryTree.obj
+         Debug\Datastruct.obj
+         Debug\doubleLinkedList.obj
+         Debug\Hashing.obj
+         Debug\myArray.obj
+         Debug\Node.obj
+         Debug\queue.obj
+         Debug\singleLinkList.obj
+         Debug\Stack.obj
+         Debug\stdafx.obj
+     1>BinaryTree.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall BinaryTree::insert(void)" (?insert@BinaryTree@@UAENXZ)
+     1>BinaryTree.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall BinaryTree::delnode(void)" (?delnode@BinaryTree@@UAEXXZ)
+     1>BinaryTree.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall BinaryTree::deleteList(void)" (?deleteList@BinaryTree@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showElement(void)" (?showElement@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showElement(void)" (?showElement@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showElement(void)" (?showElement@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showElement(void)" (?showElement@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showAll(void)" (?showAll@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showAll(void)" (?showAll@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showAll(void)" (?showAll@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::showAll(void)" (?showAll@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::clearAll(void)" (?clearAll@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::clearAll(void)" (?clearAll@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::clearAll(void)" (?clearAll@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::clearAll(void)" (?clearAll@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::delnode(void)" (?delnode@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::delnode(void)" (?delnode@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::delnode(void)" (?delnode@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::delnode(void)" (?delnode@Datastruct@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::delnode(void)" (?delnode@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::display(void)" (?display@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::display(void)" (?display@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::display(void)" (?display@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::display(void)" (?display@Datastruct@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::display(void)" (?display@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteList(void)" (?deleteList@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteList(void)" (?deleteList@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteList(void)" (?deleteList@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteList(void)" (?deleteList@Datastruct@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteList(void)" (?deleteList@Datastruct@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ) referenced in function __unwindfunclet$??0singleLinkList@@QAE@XZ$0
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::deleteStructer(void)" (?deleteStructer@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall Datastruct::deleteNumbers(void)" (?deleteNumbers@Datastruct@@UAENXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall Datastruct::deleteNumbers(void)" (?deleteNumbers@Datastruct@@UAENXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall Datastruct::deleteNumbers(void)" (?deleteNumbers@Datastruct@@UAENXZ)
+     1>singleLinkList.obj : error LNK2019: unresolved external symbol "public: virtual double __thiscall Datastruct::deleteNumbers(void)" (?deleteNumbers@Datastruct@@UAENXZ) referenced in function "public: __thiscall singleLinkList::singleLinkList(void)" (??0singleLinkList@@QAE@XZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ) referenced in function "public: __thiscall doubleLinkedList::doubleLinkedList(void)" (??0doubleLinkedList@@QAE@XZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::push(void)" (?push@Datastruct@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2019: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ) referenced in function "public: __thiscall doubleLinkedList::~doubleLinkedList(void)" (??1doubleLinkedList@@QAE@XZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::pop(void)" (?pop@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isFull(void)" (?isFull@Datastruct@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isEmpty(void)" (?isEmpty@Datastruct@@UAEXXZ)
+     1>Datastruct.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isEmpty(void)" (?isEmpty@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isEmpty(void)" (?isEmpty@Datastruct@@UAEXXZ)
+     1>Hashing.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isEmpty(void)" (?isEmpty@Datastruct@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Datastruct::isEmpty(void)" (?isEmpty@Datastruct@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall doubleLinkedList::initialise(void)" (?initialise@doubleLinkedList@@UAENXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall doubleLinkedList::create(void)" (?create@doubleLinkedList@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall doubleLinkedList::insertLink(void)" (?insertLink@doubleLinkedList@@UAENXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall doubleLinkedList::delnode(void)" (?delnode@doubleLinkedList@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall doubleLinkedList::display(void)" (?display@doubleLinkedList@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall doubleLinkedList::deleteList(void)" (?deleteList@doubleLinkedList@@UAEXXZ)
+     1>doubleLinkedList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall doubleLinkedList::appendNode(void)" (?appendNode@doubleLinkedList@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::initialise(void)" (?initialise@myArray@@UAENXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::initialise(void)" (?initialise@myArray@@UAENXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::insert(void)" (?insert@myArray@@UAENXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::insert(void)" (?insert@myArray@@UAENXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::insert(void)" (?insert@myArray@@UAENXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall myArray::showElement(void)" (?showElement@myArray@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall myArray::showElement(void)" (?showElement@myArray@@UAEXXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::deleteNumbers(void)" (?deleteNumbers@myArray@@UAENXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::deleteNumbers(void)" (?deleteNumbers@myArray@@UAENXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall myArray::deleteNumbers(void)" (?deleteNumbers@myArray@@UAENXZ)
+     1>myArray.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall myArray::clearAll(void)" (?clearAll@myArray@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall myArray::clearAll(void)" (?clearAll@myArray@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall queue::initialise(void)" (?initialise@queue@@UAENXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall queue::isFull(void)" (?isFull@queue@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall queue::isEmpty(void)" (?isEmpty@queue@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall queue::showElement(void)" (?showElement@queue@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall queue::showAll(void)" (?showAll@queue@@UAEXXZ)
+     1>queue.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall queue::clearAll(void)" (?clearAll@queue@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall singleLinkList::initialise(void)" (?initialise@singleLinkList@@UAENXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall singleLinkList::create(void)" (?create@singleLinkList@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual double __thiscall singleLinkList::insertLink(void)" (?insertLink@singleLinkList@@UAENXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall singleLinkList::delnode(void)" (?delnode@singleLinkList@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall singleLinkList::display(void)" (?display@singleLinkList@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall singleLinkList::deleteList(void)" (?deleteList@singleLinkList@@UAEXXZ)
+     1>singleLinkList.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall singleLinkList::appendNode(void)" (?appendNode@singleLinkList@@UAEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Stack::push(void)const " (?push@Stack@@UBEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Stack::pop(void)const " (?pop@Stack@@UBEXXZ)
+     1>Stack.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall Stack::isEmpty(void)" (?isEmpty@Stack@@UAEXXZ)
+     1>H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\Debug\AssignmentOOPWeek5.exe : fatal error LNK1120: 43 unresolved externals
+     1>Done Building Project "H:\Documents\Visual Studio 2012\Projects\AssignmentOOPWeek5\AssignmentOOPWeek5\AssignmentOOPWeek5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.90

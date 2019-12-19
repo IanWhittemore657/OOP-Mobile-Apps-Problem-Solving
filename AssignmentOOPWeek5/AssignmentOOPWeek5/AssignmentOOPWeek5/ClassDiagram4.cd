@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Datastruct" Collapsed="true">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAoQACEgEBCAAAAAEEAAIAAAAEAAAAAAABJCAAAQAA=</HashCode>
+      <FileName>Datastruct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doubleLinkedList" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoQAAAAAAAAAAAAEEAAAQAAAEAAAAAAABAAAAIAAA=</HashCode>
+      <FileName>doubleLinkedList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="myArray" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAgEBCAAAAAAFAAAAAAAAAAgAAAIAAAAgAAAA=</HashCode>
+      <FileName>myArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="queue" Collapsed="true">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEACAAAACAFAAAAAAAEAAAAAAAAACAAAQAA=</HashCode>
+      <FileName>queue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="singleLinkList" Collapsed="true">
+    <Position X="0.75" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="singleLinkList::ListNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>singleLinkList.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QAAoQAAAgAAAAAAAAEEBAAAAAAEAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>singleLinkList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack" Collapsed="true">
+    <Position X="8.5" Y="3.75" Width="1.5" />
+    <InheritanceLine Type="myArray" FixedToPoint="true">
+      <Path>
+        <Point X="7" Y="2.691" />
+        <Point X="7" Y="3.375" />
+        <Point X="10" Y="3.375" />
+        <Point X="10" Y="3.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACAEAAIgAgAAAAAAAAAAIAAAAQAA=</HashCode>
+      <FileName>Stack.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
