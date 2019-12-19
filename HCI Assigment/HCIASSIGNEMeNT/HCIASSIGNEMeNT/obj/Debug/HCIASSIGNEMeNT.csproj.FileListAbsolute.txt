@@ -1,0 +1,47 @@
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe.config
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.pdb
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csprojResolveAssemblyReference.cache
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form1.resources
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form2.resources
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Properties.Resources.resources
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.GenerateResource.Cache
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.exe
+\\glass\1700870\documents\visual studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.pdb
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe.config
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.exe
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.pdb
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.pdb
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form1.resources
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form2.resources
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form3.resources
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Properties.Resources.resources
+H:\Documents\Visual Studio 2012\Projects\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.GenerateResource.Cache
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe.config
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.pdb
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csprojAssemblyReference.cache
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form1.resources
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form2.resources
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form3.resources
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Properties.Resources.resources
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.GenerateResource.cache
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.CoreCompileInputs.cache
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.exe
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.pdb
+C:\Users\Ian W\Desktop\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form4.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe.config
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.exe
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\bin\Debug\HCIASSIGNEMeNT.pdb
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csprojAssemblyReference.cache
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form1.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form2.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form3.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Form4.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.Properties.Resources.resources
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.GenerateResource.cache
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.csproj.CoreCompileInputs.cache
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.exe
+C:\Users\Ian W\Desktop\HCI Assigment\HCIASSIGNEMeNT\HCIASSIGNEMeNT\obj\Debug\HCIASSIGNEMeNT.pdb
